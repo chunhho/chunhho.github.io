@@ -82,6 +82,9 @@ h3.sectionTitle {
 	font-size: 28px;
 }
 .navbar-inverse .navbar-brand .title {
+    color: #448188;
+}
+.navbar-inverse .navbar-brand .title2 {
     color: #888;
 }
 .navbar-inverse .navbar-brand:hover,
