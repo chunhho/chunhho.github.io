@@ -130,7 +130,7 @@ h3.sectionTitle {
 /********************************************************************/
 
 .jumbotron {
-	background: url(../assets/img/bigBG.jpg) no-repeat center center scroll; 
+	background: url(../assets/img/bigBG1.jpg) no-repeat center center scroll; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -150,7 +150,7 @@ h3.sectionTitle {
     width: auto;
 }
 .jumbotron h1 {
-	color: #EFEDB0;
+	color: #C5E2C0;
     font-size: 60px;
     font-weight: 700;
 	text-shadow: 0 1px 5px #222222;
