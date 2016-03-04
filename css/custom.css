@@ -85,7 +85,7 @@ h3.sectionTitle {
     color: #448188;
 }
 .navbar-inverse .navbar-brand .title2 {
-    color: #888;
+    color: #5BAB15;
 }
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-brand:focus {
@@ -150,8 +150,8 @@ h3.sectionTitle {
     width: auto;
 }
 .jumbotron h1 {
-	color: #fff;
-    font-size: 72px;
+	color: #EFEDB0;
+    font-size: 60px;
     font-weight: 700;
 	text-shadow: 0 1px 5px #222222;
 }
@@ -237,89 +237,6 @@ h3.sectionTitle {
 	text-align: right;
 	color: #428BCA;
 	font-size: 20px;
-}
-
-/**********************************************************************/
-/************************ PRICING ************************************/
-/********************************************************************/
-
-#pricingWrap {
-	padding-top: 60px;
-	padding-bottom: 60px;
-}
-#pricingWrap .priceTable {
-	border: 1px solid #D9D9D9;
-	border-radius: 4px;
-	margin: 0;
-	padding: 0;
-	background: #fff;
-	list-style: none outside none;
-	text-align: center;
-}
-#pricingWrap .priceTable .title {
-	color: #333333;
-	font-size: 34px;
-	font-weight: 700;
-	padding: 20px 10px 0;
-	font-family: 'Roboto Condensed',sans-serif;
-}
-#pricingWrap .priceTable .description {
-    color: #777777;
-    font-size: 14px;
-	padding: 10px 10px 20px;
-}
-#pricingWrap .priceTable .price {
-	background: #F2F2F2;
-	border-bottom: 1px solid #E5E5E5;
-	border-top: 1px solid #E5E5E5;
-	color: #333333;
-	font-size: 26px;
-	margin-bottom: 20px;
-	padding: 15px 10px;
-}
-#pricingWrap .priceTable ul.features {
-    margin: 0;
-    padding: 0;
-	list-style: none outside none;
-}
-#pricingWrap .priceTable ul.features li {
-	border-bottom: 1px dotted #D2D2D2;
-    color: #333333;
-    font-size: 16px;
-    margin: 0 30px;
-    padding: 15px 0;
-    text-align: center;
-}
-#pricingWrap .priceTable .call {
-	margin: 30px 10px;
-}
-#pricingWrap .priceTable .call .btn {
-	width: 70%;
-}
-#pricingWrap .priceTable.alt {
-	border-color: #428BCA;
-	background: #428BCA;
-}
-#pricingWrap .priceTable.alt .title {
-	color: #fff;
-}
-#pricingWrap .priceTable.alt .description {
-    color: #fff;
-}
-#pricingWrap .priceTable.alt .price {
-	background: #fff;
-	border-bottom: 1px solid #fff;
-	border-top: 1px solid #fff;
-	color: #333333;
-}
-#pricingWrap .priceTable.alt ul.features li {
-	border-bottom: 1px dotted #fff;
-    color: #fff;
-}
-#pricingWrap .priceTable.alt .call .btn {
-	background: #FFFFFF;
-    border-color: #FFFFFF;
-	color: #333;
 }
 
 
